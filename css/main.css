@@ -1,3 +1,27 @@
+h1 {
+  font-family: "Comic Sans MS";
+}
+
 body {
-  font-family:"Comic Sans MS"
+  background-color: black;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+
+a {
+  font-family: "Arial Black";
+  margin-right: 25px;
+}
+
+p {
+  font-family: "Impact";
+  text-align: center;
+}
+
+.hiddentext {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 1px;
 }
